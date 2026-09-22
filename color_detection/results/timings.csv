@@ -1,0 +1,7 @@
+condicion,metodo,avg_ms,min_ms,max_ms,iteraciones
+dia,CIELAB,13.9975,13.711,15.2717,15
+dia,HSV,4.41919,4.20539,4.84722,15
+atardecer,CIELAB,12.7751,12.6196,13.059,15
+atardecer,HSV,4.33545,4.21699,4.47525,15
+noche,CIELAB,13.2722,12.8875,14.3788,15
+noche,HSV,4.38936,4.27833,4.81504,15

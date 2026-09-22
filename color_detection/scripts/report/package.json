@@ -1,0 +1,9 @@
+{
+  "name": "generar-reporte-cielab-vs-hsv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Genera docs/Reporte_CIELAB_vs_HSV.docx a partir de results/ (requiere haber corrido antes sign_color_detector.exe).",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

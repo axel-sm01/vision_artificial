@@ -1,0 +1,9 @@
+{
+  "name": "generar-reporte-census-vs-sad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Genera docs/Reporte_Census_vs_SAD.docx a partir de results/ (requiere haber corrido antes stereo_adas.exe).",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "generar-reporte-hough-harris",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Genera docs/Reporte_Hough_Harris_ADAS.docx a partir de results/ (requiere haber corrido antes lane_harris_adas).",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}

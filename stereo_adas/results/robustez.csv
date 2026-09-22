@@ -1,0 +1,9 @@
+condicion,metodo,mad_disparidad_px,validos_pct
+igualada,SAD,0,90
+igualada,CENSUS,0,90
+gamma_sintetico,SAD,24.8886,90
+gamma_sintetico,CENSUS,1.7484,90
+real_exposicion,SAD,24.8581,90
+real_exposicion,CENSUS,5.83135,90
+real_iluminacion,SAD,21.768,90
+real_iluminacion,CENSUS,13.8825,90

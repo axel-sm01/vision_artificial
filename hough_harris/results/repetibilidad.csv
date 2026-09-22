@@ -1,0 +1,5 @@
+condicion,keypoints_izq,keypoints_der,matches,repetibilidad_pct
+buena,311,338,163,52.4116
+atardecer,315,351,169,53.6508
+noche,469,526,232,49.467
+desbalance_camaras,311,519,182,58.5209

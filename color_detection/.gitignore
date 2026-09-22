@@ -1,0 +1,14 @@
+# Carpetas de build
+out/
+build/
+
+# Visual Studio
+.vs/
+*.user
+CMakeSettings.json
+
+# Binarios/objetos sueltos
+*.obj
+*.exe
+*.dll
+*.pdb

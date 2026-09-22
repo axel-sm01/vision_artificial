@@ -1,0 +1,4 @@
+condicion,segmentos_izq,segmentos_der,carril_izq_detectado,carril_der_detectado
+buena,8,10,si,si
+atardecer,5,8,si,si
+noche,6,9,si,si
